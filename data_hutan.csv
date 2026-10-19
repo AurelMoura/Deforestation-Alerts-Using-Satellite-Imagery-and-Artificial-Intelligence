@@ -1,0 +1,37 @@
+
+perubahan_vegetasi,perubahan_kelembapan,akses_jalan,aktivitas_pembukaan,kategori
+0.85,0.30,0.90,0.95,Pertanian Skala Besar
+0.80,0.35,0.85,0.90,Pertanian Skala Besar
+0.75,0.40,0.80,0.85,Pertanian Skala Besar
+0.70,0.45,0.75,0.80,Pertanian Skala Besar
+0.65,0.50,0.70,0.75,Pertanian Skala Besar
+0.55,0.45,0.35,0.55,Pertanian Skala Kecil
+0.60,0.50,0.30,0.60,Pertanian Skala Kecil
+0.50,0.55,0.40,0.50,Pertanian Skala Kecil
+0.45,0.60,0.25,0.45,Pertanian Skala Kecil
+0.52,0.50,0.30,0.48,Pertanian Skala Kecil
+0.90,0.25,0.95,0.90,Pembangunan Jalan
+0.85,0.30,0.98,0.85,Pembangunan Jalan
+0.80,0.35,0.90,0.80,Pembangunan Jalan
+0.75,0.40,0.95,0.75,Pembangunan Jalan
+0.70,0.45,0.92,0.70,Pembangunan Jalan
+0.70,0.30,0.60,0.80,Penebangan Selektif
+0.65,0.35,0.55,0.75,Penebangan Selektif
+0.60,0.40,0.50,0.70,Penebangan Selektif
+0.55,0.45,0.45,0.65,Penebangan Selektif
+0.62,0.38,0.58,0.72,Penebangan Selektif
+0.95,0.20,0.75,0.95,Pertambangan
+0.90,0.25,0.80,0.90,Pertambangan
+0.85,0.30,0.70,0.85,Pertambangan
+0.80,0.35,0.75,0.80,Pertambangan
+0.88,0.28,0.78,0.92,Pertambangan
+0.95,0.10,0.30,0.90,Kebakaran
+0.90,0.15,0.25,0.85,Kebakaran
+0.85,0.20,0.35,0.80,Kebakaran
+0.80,0.25,0.20,0.75,Kebakaran
+0.88,0.18,0.28,0.88,Kebakaran
+0.40,0.90,0.10,0.20,Gangguan Alami
+0.35,0.95,0.15,0.15,Gangguan Alami
+0.45,0.85,0.08,0.25,Gangguan Alami
+0.30,0.88,0.12,0.18,Gangguan Alami
+0.38,0.92,0.10,0.22,Gangguan Alami
